@@ -16,10 +16,23 @@ Les posts parlent de **DJANFARAROU Hanif** et de SON parcours — jamais de celu
 - **Histoire forte :** **autodidacte** (a appris l'informatique seul depuis 2023), a quitté des études de Sciences de la Vie et de la Terre (3ᵉ année) pour vivre du dev. Parcours de reconversion / débrouille / self-made.
 - **Angle & crédibilité :** jeune dev africain en début de carrière, self-made. Sa force = l'authenticité, l'apprentissage en public, la preuve qu'on peut réussir en autodidacte depuis le Togo.
 
+**Objectif LinkedIn :** construire une **audience**, notamment autour de sa passion : **créer des outils SaaS** (build in public).
+
+**Thèmes de prédilection :**
+- Son **parcours autodidacte** (comment il a appris seul, ses galères, ses victoires).
+- La **vie de dev** (quotidien, réalité du métier, coulisses de projets).
+- Des **conseils code** (Angular, Django, Python, bonnes pratiques, astuces).
+- Ses **projets SaaS** qu'il construit (build in public : idée → conception → lancement).
+
+**Voix & ton :**
+- Hanif est **plutôt timide** de nature, mais **se forme pour devenir un bon orateur** → cette évolution est un atout narratif : l'authenticité, le "je progresse en public", la vulnérabilité assumée.
+- Ton juste : **humble, sincère, encourageant**, jamais le hype survendu des exemples anglophones. On préfère l'archétype **Mindset/vulnérabilité** et **Storytelling** au registre "hype produit".
+- Il grandit, il apprend, il partage honnêtement. C'est ça sa marque.
+
 **Règles de contenu :**
 - Adapte les exemples de résultats à SA réalité (pas de "$2M ARR" ou "100M de vues" — il débute). Chiffres réalistes et honnêtes, ou pas de chiffres.
-- Les CTA produit (Kleo, etc.) des exemples de référence ne s'appliquent PAS. N'ajoute un CTA que si Hanif le demande, vers SES projets à lui.
-- Thèmes naturels : apprendre à coder en autodidacte, Angular/Django, la vie de dev au Togo, la reconversion, les débuts de carrière, l'apprentissage en public. (Hanif peut préciser/élargir.)
+- Les CTA produit (Kleo, etc.) des exemples de référence ne s'appliquent PAS. N'ajoute un CTA que si Hanif le demande, vers SES projets à lui (ses SaaS).
+- Évite le ton arrogant ou "gourou". Reste à hauteur d'humain, dans le partage.
 
 ## Comportement par défaut
 
