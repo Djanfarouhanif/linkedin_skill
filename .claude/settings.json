@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Edit(/.claude/skills/linkedin-post/**)"
+      "Edit(/.claude/skills/linkedin-post/**)",
+      "WebFetch(domain:terminal-chat.hanifcode.fr)"
     ]
   }
 }
