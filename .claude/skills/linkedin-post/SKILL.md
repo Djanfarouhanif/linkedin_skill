@@ -13,21 +13,21 @@ Les posts parlent de **DJANFARAROU Hanif** et de SON parcours — jamais de celu
 
 - **Nom :** DJANFARAROU Hanif, **22 ans**, basé au **Togo**.
 - **Métier :** développeur web. **Frontend Angular** + **backend Python / Django**. Prestataire à l'**Agence Togo Digital** (depuis janvier 2026, après un stage de 9 mois).
-- **Histoire forte :** **autodidacte** (a appris l'informatique seul depuis 2023), a quitté des études de Sciences de la Vie et de la Terre (3ᵉ année) pour vivre du dev. Parcours de reconversion / débrouille / self-made.
-- **Angle & crédibilité :** jeune dev africain en début de carrière, self-made. Sa force = l'authenticité, l'apprentissage en public, la preuve qu'on peut réussir en autodidacte depuis le Togo.
+- **Angle & crédibilité :** un **builder / développeur qui livre des produits** (Relay, Cyber Arena). On met en avant ce qu'il CONSTRUIT, sa vision, sa compétence technique, son momentum. Pas son statut de débutant.
+- **⚠ NE PAS mettre en avant le côté "autodidacte".** C'est un fait de son parcours (a appris seul depuis 2023, a quitté des études de SVT en 3ᵉ année), mais Hanif ne veut PAS être défini par ça : ça sous-entend "encore en apprentissage" et bride son autorité. Ne pas ouvrir un post par "en autodidacte", ne pas en faire l'argument central. Le positionner comme un dev compétent et un builder, point.
 
 **Objectif LinkedIn :** construire une **audience**, notamment autour de sa passion : **créer des outils SaaS** (build in public).
 
 **Thèmes de prédilection :**
-- Son **parcours autodidacte** (comment il a appris seul, ses galères, ses victoires).
-- La **vie de dev** (quotidien, réalité du métier, coulisses de projets).
-- Des **conseils code** (Angular, Django, Python, bonnes pratiques, astuces).
-- Ses **projets SaaS** qu'il construit (build in public : idée → conception → lancement).
+- Ses **projets SaaS** qu'il construit (build in public : idée → conception → lancement) — thème central.
+- La **vie de dev** (quotidien, réalité du métier, coulisses de projets, décisions techniques).
+- Des **conseils code** (Angular, Django, Python, bonnes pratiques, astuces) — pose son expertise.
+- Son **parcours** peut être évoqué pour l'humain, mais **sans se réduire à "l'autodidacte"** (voir règle plus bas).
 
 **Voix & ton :**
-- Hanif est **plutôt timide** de nature, mais **se forme pour devenir un bon orateur** → cette évolution est un atout narratif : l'authenticité, le "je progresse en public", la vulnérabilité assumée.
-- Ton juste : **humble, sincère, encourageant**, jamais le hype survendu des exemples anglophones. On préfère l'archétype **Mindset/vulnérabilité** et **Storytelling** au registre "hype produit".
-- Il grandit, il apprend, il partage honnêtement. C'est ça sa marque.
+- Ton juste : **humble, sincère, confiant**, jamais le hype survendu des exemples anglophones. On préfère l'archétype **Storytelling** et **Mindset** au registre "hype produit", mais avec de l'assurance — c'est un builder qui sait ce qu'il fait.
+- Hanif est plutôt timide de nature (info de contexte, PAS à étaler dans chaque post) ; il travaille son aisance. Utiliser la vulnérabilité avec parcimonie et à bon escient, sans se rabaisser.
+- Sa marque : **il construit des produits réels et les partage**. Confiance tranquille, pas d'arrogance, pas non plus de posture de débutant.
 
 **Règles de contenu :**
 - Adapte les exemples de résultats à SA réalité (pas de "$2M ARR" ou "100M de vues" — il débute). Chiffres réalistes et honnêtes, ou pas de chiffres.
@@ -52,6 +52,13 @@ ou une nouvelle version.
 3. Après le post, propose en une ligne : *"Tu veux une autre variante, un autre archétype, ou j'ajoute un CTA ?"*
 4. Si l'idée est vague, choisis l'archétype le plus pertinent et écris quand même — ne bloque pas l'utilisateur avec des questions. Écris d'abord, ajuste ensuite.
 5. **TOUJOURS archiver le post final dans `references/posts-performances.md`** avec des métriques vides (`_à remplir_`) : archétype, impressions, likes, commentaires, reposts, date. Hanif fournira les chiffres plus tard ; il te suffira alors de les remplir. Si le post est retouché après coup, mets à jour l'entrée existante plutôt que d'en créer une nouvelle.
+
+## Enseignements des performances réelles (PRIORITAIRE — voir `references/posts-performances.md`)
+
+Basé sur les vrais chiffres des posts de Hanif :
+1. **La vidéo multiplie la portée par ~20.** Même hook : 69 impressions en texte vs 1 503 avec une vidéo. → **Recommande TOUJOURS une vidéo/démo** (un screencast du terminal pour les posts produit) et rappelle-le à Hanif à chaque post produit. Sans vidéo, le post plafonne.
+2. **Hook court et choc >> hook lent et descriptif.** "Tout le monde discute sur WhatsApp." (1 503) écrase "Il y a quelques semaines, j'ai lancé Relay…" (72). → La 1re ligne doit être **une phrase courte, percutante, relatable** — jamais une intro qui explique.
+3. Le schéma gagnant à répliquer : **hook contrarian court + vidéo démo + présentation produit + CTA + question**.
 
 ## Règles de style (signatures transversales — TOUJOURS appliquer)
 

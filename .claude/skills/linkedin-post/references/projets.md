@@ -47,11 +47,11 @@ Connexion < 1 s · envoi message < 100 ms · viser 5 000 utilisateurs connectés
 - **V3** : appels audio/vidéo, partage d'écran, IA intégrée, traduction auto, plugins, bots, chiffrement de bout en bout, sync multi-appareils.
 
 ### Angles storytelling exploitables
-- Construire un produit fini en autodidacte, depuis le Togo.
 - "Une messagerie dans le terminal" (contre-intuitif → bon hook).
 - Le défi technique du temps réel (WebSockets, Django Channels, Redis).
 - Les coulisses : de l'idée au PRD au produit installable.
-- Build in public : chaque version (V1 → V2 → V3) = matière à post.
+- Build in public : chaque version = matière à post.
+- (Éviter d'axer sur "autodidacte" — mettre en avant le produit et la compétence technique.)
 
 ---
 
