@@ -105,15 +105,55 @@ Relay est en ligne. Et ça ne fait que commencer.
 
 ---
 
-## Post — Cyber Arena (Relay V2) : demander l'avis des gens
+## Post — Cyber Arena V2 (REFAIT, hook court) : demander l'avis des gens
 - **Archétype :** Feedback / validation (build in public) + CTA secondaire vers Relay V1
+- **Format :** texte + **vidéo recommandée** (démo terminal ou mockup Cyber Arena)
+- **Impressions :** _à remplir_
+- **Likes :** _à remplir_
+- **Commentaires :** _à remplir_
+- **Reposts :** _à remplir_
+- **Date :** _à remplir_
+- **Note :** version refaite avec hook court et choc (recette gagnante), pour remplacer la V1 lente (72 imp).
+
+J'ai transformé le hacking en jeu de duel.
+
+Sans une seule vraie ligne de cyberattaque.
+
+Ça s'appelle Cyber Arena.
+
+Un duel 1v1, dans un univers de cybersécurité 100 % fictif — rien de réel, rien d'illégal. Juste un jeu.
+
+Le principe :
+
+Deux joueurs reçoivent le même réseau à « pirater ».
+
+Chacun le résout de son côté, chronométré.
+
+Des énigmes à craquer, nœud par nœud, jusqu'au coffre.
+
+Le meilleur score grimpe au classement.
+
+Un « chess.com du hacking fictif » : rapide, malin, rejouable.
+
+C'est la V2 de Relay, ma messagerie qui tourne déjà dans le terminal. Même fondation. Nouvelle ambition.
+
+Mais avant de me lancer à fond, une vraie question pour vous :
+
+Vous joueriez à ça ?
+
+Qu'est-ce qui vous ferait revenir… ou fuir dès la première partie ?
+
+Je lis TOUS les commentaires. Vos retours décident de la suite 👇
+
+👉 En attendant, testez la V1 (la messagerie) ici : https://terminal-chat.hanifcode.fr/documentation
+
+---
+
+## Ancien post — Cyber Arena V2 (hook lent, remplacé)
+- **Archétype :** Feedback / validation
 - **Format :** texte + vidéo
-- **Impressions :** 72
-- **Likes :** 2
-- **Commentaires :** 0
-- **Reposts :** 0
-- **Date :** ~9 juillet 2026
-- **Note :** malgré la vidéo, portée faible (72) — le hook "Il y a quelques semaines, j'ai lancé Relay…" est trop lent/descriptif. À refaire avec un hook court et choc.
+- **Impressions :** 72 · **Likes :** 2 · **Commentaires :** 0 · **Date :** ~9 juillet 2026
+- **Leçon :** hook "Il y a quelques semaines, j'ai lancé Relay…" trop lent/descriptif → faible portée. Remplacé par la version à hook court ci-dessus.
 
 Il y a quelques semaines, j'ai lancé Relay : une messagerie qui tourne entièrement dans le terminal.
 
