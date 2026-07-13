@@ -53,12 +53,15 @@ ou une nouvelle version.
 4. Si l'idée est vague, choisis l'archétype le plus pertinent et écris quand même — ne bloque pas l'utilisateur avec des questions. Écris d'abord, ajuste ensuite.
 5. **TOUJOURS archiver le post final dans `references/posts-performances.md`** avec des métriques vides (`_à remplir_`) : archétype, impressions, likes, commentaires, reposts, date. Hanif fournira les chiffres plus tard ; il te suffira alors de les remplir. Si le post est retouché après coup, mets à jour l'entrée existante plutôt que d'en créer une nouvelle.
 
-## Enseignements des performances réelles (PRIORITAIRE — voir `references/posts-performances.md`)
+## Enseignements des performances réelles (voir `references/posts-performances.md`)
 
-Basé sur les vrais chiffres des posts de Hanif :
-1. **La vidéo multiplie la portée par ~20.** Même hook : 69 impressions en texte vs 1 503 avec une vidéo. → **Recommande TOUJOURS une vidéo/démo** (un screencast du terminal pour les posts produit) et rappelle-le à Hanif à chaque post produit. Sans vidéo, le post plafonne.
-2. **Hook court et choc >> hook lent et descriptif.** "Tout le monde discute sur WhatsApp." (1 503) écrase "Il y a quelques semaines, j'ai lancé Relay…" (72). → La 1re ligne doit être **une phrase courte, percutante, relatable** — jamais une intro qui explique.
-3. Le schéma gagnant à répliquer : **hook contrarian court + vidéo démo + présentation produit + CTA + question**.
+Basé sur 6 posts (juillet 2026). **Échantillon petit, compte jeune, chiffres volatils — rester prudent, ne pas survendre de "recette miracle".** Distribution : 49, 60, 69, 72, 101, 1 503.
+
+1. **La vidéo n'est PAS un multiplicateur fiable** (conclusion initiale corrigée). Les posts vidéo font 49-101, comme le texte (69). La joindre ne nuit pas, mais ne la présente plus comme LA solution.
+2. **La relatabilité du hook est la piste la plus solide.** Le seul carton (1 503) avait un hook que tout le monde vit ("WhatsApp") + c'était le lancement. Les sujets de niche ("le hacking", "jouer sur console") plafonnent à ~100. → Privilégier des angles **universels** quand on veut de la portée.
+3. **Garde une première ligne courte et percutante** (bonne pratique générale), mais sans promettre que ça suffit.
+4. **Rappelle les leviers d'un compte jeune** si Hanif veut plus de portée : régularité, répondre vite aux commentaires, commenter d'autres posts, timing, patience. Un post viral isolé ≠ tendance.
+5. **On manque encore de données** pour des règles fermes. Continuer à tout logger et réviser ces conclusions à mesure.
 
 ## Règles de style (signatures transversales — TOUJOURS appliquer)
 

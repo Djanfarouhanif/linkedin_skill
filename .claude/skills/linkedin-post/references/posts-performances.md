@@ -22,17 +22,68 @@ schéma (accroche, structure, CTA) mérite d'être réutilisé.
 
 ---
 
-## 🔑 Enseignements (données réelles — à appliquer EN PRIORITÉ)
+## 🔑 Enseignements (données réelles — mis à jour au fil des posts)
 
-Tirés des 4 premiers posts de Hanif (juillet 2026) :
+Basé sur 6 posts de Hanif (juillet 2026). **Honnêteté statistique : échantillon petit, compte jeune → chiffres volatils. Ne pas surinterpréter.**
 
-1. **La VIDÉO multiplie la portée par ~20.** Le même hook "Tout le monde discute sur WhatsApp" a fait **69 impressions en texte seul** vs **1 503 avec une vidéo**. → **Toujours recommander une vidéo / démo (screencast du terminal) avec les posts produit.** LinkedIn pousse fortement la vidéo.
-2. **Hook court et percutant >> hook descriptif.** "Tout le monde discute sur WhatsApp." (1 503 imp) a écrasé "Il y a quelques semaines, j'ai lancé Relay…" (72 imp), les deux en vidéo. → **Première ligne = une phrase courte, choc, relatable. Jamais une intro lente et descriptive.**
-3. **Meilleur post à ce jour : 1 503 imp / 30 likes / 6 comm** = hook contrarian court + vidéo démo. C'est le schéma à répliquer.
+**Distribution réelle des impressions :** 49, 60, 69, 72, 101, **1 503**.
+→ La plupart des posts font **50-100 impressions** (normal pour un compte qui démarre). Le **1 503 est un outlier isolé**, pas un résultat reproductible pour l'instant.
+
+1. **⚠ La vidéo N'EST PAS un ×20 fiable.** Conclusion initiale corrigée : les posts vidéo font 49-101 (comme le texte à 69). La vidéo ne nuit pas, mais ne garantit RIEN à elle seule. Ne plus la vendre comme la solution miracle.
+2. **Ce qui distingue le post à 1 503 :** (a) c'était le **lancement** de Relay (nouveauté), (b) hook **ultra-relatable** ("WhatsApp" = tout le monde), (c) probable pic d'engagement précoce. Les hooks plus étroits ("jouer sur console", "le hacking") touchent moins de monde → portée plus faible.
+3. **Piste la plus solide :** la **relatabilité du hook** (un sujet que TOUT LE MONDE vit) semble compter plus que le format. À tester davantage.
+4. **Leviers réels pour un compte jeune** (au-delà du contenu) : régularité, répondre vite à chaque commentaire, commenter d'autres posts avant/après publication, publier quand l'audience est active, donner du temps. Un post viral isolé ne fait pas une tendance.
+5. **Besoin de plus de données** avant de fixer des règles. Continuer à logger chaque post ici.
 
 ---
 
 <!-- Chaque post généré par le skill est ajouté ici avec ses métriques. -->
+
+---
+
+## Post — "Tu ne trouveras jamais mon mot de passe" (sécurité / mot de passe en dur)
+- **Archétype :** Storytelling / insight (leçon technique)
+- **Format :** texte (vidéo/capture optionnelle : screenshot flouté de l'onglet Réseau)
+- **Impressions :** _à remplir_
+- **Likes :** _à remplir_
+- **Commentaires :** _à remplir_
+- **Reposts :** _à remplir_
+- **Date :** _à remplir_
+- **Hypothèse testée :** sujet universel (sécurité) + démonstration de compétence → devrait mieux porter que les posts "terminal" de niche.
+
+« Tu ne trouveras jamais le mot de passe de mon site. »
+
+2 minutes plus tard, je l'avais.
+
+Un ami avait généré des sites, protégés par un mot de passe.
+
+Il était sûr de lui. Moi aussi.
+
+Alors j'ai ouvert les outils de développement du navigateur.
+
+Onglet Réseau. Puis le code JavaScript de la page.
+
+Et là… le mot de passe était écrit en dur. Directement dans le code.
+
+En clair. Visible par n'importe qui.
+
+Je n'ai rien « hacké ». J'ai juste… regardé.
+
+La leçon, si tu développes des sites :
+
+Tout ce qui part dans le navigateur est public.
+
+Le JavaScript, le HTML, les fichiers — l'utilisateur peut TOUT lire.
+
+Un mot de passe, une clé d'API, une vérification « secrète » côté client ?
+
+Considère que c'est déjà entre les mains de tout le monde.
+
+La vraie sécurité se joue côté serveur. Jamais dans le navigateur.
+
+(Rassure-toi, mon ami a corrigé depuis 😄)
+
+Et toi — tu as déjà trouvé une faille comme ça, juste par curiosité ? 👇
 
 ---
 
@@ -105,15 +156,14 @@ Relay est en ligne. Et ça ne fait que commencer.
 
 ---
 
-## Post — Cyber Arena V2 (REFAIT, hook court) : demander l'avis des gens
+## Post — Cyber Arena, hook "J'ai transformé le hacking en jeu de duel"
 - **Archétype :** Feedback / validation (build in public) + CTA secondaire vers Relay V1
-- **Format :** texte + **vidéo recommandée** (démo terminal ou mockup Cyber Arena)
-- **Impressions :** _à remplir_
-- **Likes :** _à remplir_
-- **Commentaires :** _à remplir_
-- **Reposts :** _à remplir_
-- **Date :** _à remplir_
-- **Note :** version refaite avec hook court et choc (recette gagnante), pour remplacer la V1 lente (72 imp).
+- **Format :** texte + vidéo (démo Relay)
+- **Impressions :** 49
+- **Likes :** 1
+- **Commentaires :** 0
+- **Date :** ~13 juillet 2026
+- **Note :** hook "hacking" = sujet de niche → faible portée. La vidéo montrait Relay, pas le jeu (décalage).
 
 J'ai transformé le hacking en jeu de duel.
 
@@ -149,11 +199,19 @@ Je lis TOUS les commentaires. Vos retours décident de la suite 👇
 
 ---
 
-## Ancien post — Cyber Arena V2 (hook lent, remplacé)
+## Post — Cyber Arena, hook "Tout le monde joue sur PC ou console"
+- **Archétype :** Feedback / validation
+- **Format :** texte + vidéo
+- **Impressions :** 101 · **Likes :** 2 · **Commentaires :** 0 · **Date :** ~12 juillet 2026
+- **Note :** meilleur des 3 hooks Cyber Arena (101), mais loin du 1 503 de Relay. Le sujet "jeu/hacking" touche une audience plus étroite que "messagerie/WhatsApp".
+
+---
+
+## Post — Cyber Arena, hook "Il y a quelques semaines, j'ai lancé Relay" (le plus lent)
 - **Archétype :** Feedback / validation
 - **Format :** texte + vidéo
 - **Impressions :** 72 · **Likes :** 2 · **Commentaires :** 0 · **Date :** ~9 juillet 2026
-- **Leçon :** hook "Il y a quelques semaines, j'ai lancé Relay…" trop lent/descriptif → faible portée. Remplacé par la version à hook court ci-dessus.
+- **Leçon :** hook lent/descriptif. Mais même les hooks courts (49, 101) n'ont pas fait beaucoup mieux → le hook n'était pas le seul facteur ; le sujet lui-même est plus de niche.
 
 Il y a quelques semaines, j'ai lancé Relay : une messagerie qui tourne entièrement dans le terminal.
 
