@@ -55,13 +55,17 @@ ou une nouvelle version.
 
 ## Enseignements des performances réelles (voir `references/posts-performances.md`)
 
-Basé sur 6 posts (juillet 2026). **Échantillon petit, compte jeune, chiffres volatils — rester prudent, ne pas survendre de "recette miracle".** Distribution : 49, 60, 69, 72, 101, 1 503.
+Données de Hanif (juillet 2026), chiffres vérifiés sur captures. Portée : produit/terminal de niche = **49-107** ; storytelling universel = **107** ; hook universel "WhatsApp" = **1 503** ; aphorisme métier = **1 558** ; débat "Backend > Frontend" = record d'engagement (**71 réactions, 23 commentaires**).
 
-1. **La vidéo n'est PAS un multiplicateur fiable** (conclusion initiale corrigée). Les posts vidéo font 49-101, comme le texte (69). La joindre ne nuit pas, mais ne la présente plus comme LA solution.
-2. **La relatabilité du hook est la piste la plus solide.** Le seul carton (1 503) avait un hook que tout le monde vit ("WhatsApp") + c'était le lancement. Les sujets de niche ("le hacking", "jouer sur console") plafonnent à ~100. → Privilégier des angles **universels** quand on veut de la portée.
-3. **Garde une première ligne courte et percutante** (bonne pratique générale), mais sans promettre que ça suffit.
-4. **Rappelle les leviers d'un compte jeune** si Hanif veut plus de portée : régularité, répondre vite aux commentaires, commenter d'autres posts, timing, patience. Un post viral isolé ≠ tendance.
-5. **On manque encore de données** pour des règles fermes. Continuer à tout logger et réviser ces conclusions à mesure.
+1. **⭐ Ce qui marche : les sujets UNIVERSELS du métier de dev, en opinion tranchée ou débat.** Deux sous-formats prouvés :
+   - **Débat clivant** ("Backend > Frontend ?", salaires, tel outil vs tel autre) + **question ouverte finale** → explosion des commentaires (23). Meilleur levier d'engagement.
+   - **Aphorisme en antithèse** ("Un bon dev, ce n'est pas X, c'est Y") → bonne portée (~1 558), quotable.
+2. **C'est l'UNIVERSALITÉ DE L'IDÉE qui compte, pas le format.** Le format antithèse/image seul ne suffit PAS : appliqué à un sujet niche (sécurité "mot de passe en dur"), il plafonne à 66-144, comme le reste. Appliqué à une vérité que TOUS les devs vivent ("un bon dev supprime du code"), il fait 1 558. → Avant d'écrire, se demander : "est-ce que 90 % des devs se reconnaissent dans cette idée ?" Si non, portée faible, quel que soit le format.
+3. **Le sujet universel porte ~15-30× plus qu'un sujet de niche** (1 558 vs ~70), même avec un petit compte. Ne jamais dire "seule la taille du réseau compte" — faux. Mais ne pas promettre non plus qu'un format seul fait un carton.
+3. **Le build-in-public de niche (produit, terminal) porte peu (50-107)** mais sert la **conversion**. Alterner : opinion/débat (audience) + produit (conversion).
+4. **La vidéo n'est pas un multiplicateur fiable** (posts vidéo à 49-107). Ne pas la survendre.
+5. **Décliner les formats gagnants :** débats et aphorismes sur le code propre, le métier, les salaires, les outils, les erreurs de junior. Court, tranché, avec une question clivante à la fin.
+6. **Honnêteté chiffrée : ne loguer que des valeurs vues sur capture** (le "100k" évoqué de mémoire était faux — réel : 1 558).
 
 ## Règles de style (signatures transversales — TOUJOURS appliquer)
 
@@ -75,6 +79,19 @@ Basé sur 6 posts (juillet 2026). **Échantillon petit, compte jeune, chiffres v
 - **Ton** : humain, honnête, un peu vulnérable, confiant sans être arrogant. On vend des personnes avant des idées.
 - **Éviter** : jargon corporate, langue de bois, phrases longues, "en tant que", listes à puces génériques sans rythme.
 - **Longueur** : ~120-250 mots. Assez court pour être lu en entier, assez dense pour apporter de la valeur. Certains posts insight peuvent être plus courts (~80 mots).
+
+## ⛔ Interdiction : les idées génériques recyclées
+
+Hanif REJETTE les sujets clichés que postent "les gens qui manquent d'idées" : "Junior vs Senior", "Faut-il un diplôme", "Django vs Node", "L'IA va-t-elle remplacer les juniors", etc. Ne JAMAIS proposer ça.
+
+**Test avant de proposer une idée :** *"N'importe qui pourrait-il écrire ce post sans avoir vécu ce que Hanif a vécu ?"* Si oui → poubelle.
+
+**L'originalité vient de SON vécu concret**, pas de débats abstraits :
+- ses projets réels (Relay, Cyber Arena) et les détails techniques/surprises qu'il a rencontrés ;
+- des anecdotes précises (ex. le mot de passe en dur trouvé chez un ami) ;
+- des prises de position contre-intuitives nées de ce qu'il a réellement fait.
+
+Formule = **détail concret vécu + enseignement non-évident**. En panne de matière ? **Demander à Hanif un truc surprenant vécu récemment** plutôt que d'inventer un sujet générique.
 
 ## Techniques avancées (à piocher selon le post)
 

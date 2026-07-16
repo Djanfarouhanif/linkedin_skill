@@ -22,18 +22,37 @@ schéma (accroche, structure, CTA) mérite d'être réutilisé.
 
 ---
 
-## 🔑 Enseignements (données réelles — mis à jour au fil des posts)
+## 🔑 Enseignements (données réelles — chiffres VÉRIFIÉS sur captures)
 
-Basé sur 6 posts de Hanif (juillet 2026). **Honnêteté statistique : échantillon petit, compte jeune → chiffres volatils. Ne pas surinterpréter.**
+**Distribution des impressions par type de post :**
+- Build-in-public / produit / terminal (niche) : **49 à 107**
+- Storytelling universel (sécurité) : **107**
+- Lancement Relay, hook universel "WhatsApp" : **1 503**
+- Aphorisme métier "Un bon dev… supprime du code" (image) : **1 558**
+- Débat "Backend > Frontend : le salaire" : impressions non relevées, mais **71 réactions + 23 commentaires** (record d'engagement).
 
-**Distribution réelle des impressions :** 49, 60, 69, 72, 101, **1 503**.
-→ La plupart des posts font **50-100 impressions** (normal pour un compte qui démarre). Le **1 503 est un outlier isolé**, pas un résultat reproductible pour l'instant.
+> ⚠ Correction : le "100 000" évoqué de mémoire était FAUX. Le chiffre réel (capture) = **1 558**. Ne jamais réintroduire le 100k.
 
-1. **⚠ La vidéo N'EST PAS un ×20 fiable.** Conclusion initiale corrigée : les posts vidéo font 49-101 (comme le texte à 69). La vidéo ne nuit pas, mais ne garantit RIEN à elle seule. Ne plus la vendre comme la solution miracle.
-2. **Ce qui distingue le post à 1 503 :** (a) c'était le **lancement** de Relay (nouveauté), (b) hook **ultra-relatable** ("WhatsApp" = tout le monde), (c) probable pic d'engagement précoce. Les hooks plus étroits ("jouer sur console", "le hacking") touchent moins de monde → portée plus faible.
-3. **Piste la plus solide :** la **relatabilité du hook** (un sujet que TOUT LE MONDE vit) semble compter plus que le format. À tester davantage.
-4. **Leviers réels pour un compte jeune** (au-delà du contenu) : régularité, répondre vite à chaque commentaire, commenter d'autres posts avant/après publication, publier quand l'audience est active, donner du temps. Un post viral isolé ne fait pas une tendance.
-5. **Besoin de plus de données** avant de fixer des règles. Continuer à logger chaque post ici.
+### Le pattern qui marche (confirmé, mais ordre de grandeur ~1 500, pas viral)
+**Sujet UNIVERSEL du métier de dev, formulé en opinion tranchée / débat.** Deux sous-formats gagnants :
+1. **Aphorisme en antithèse** ("Un bon dev, ce n'est pas X, c'est Y") → bonne portée (~1 558), quotable. Engagement modeste.
+2. **Débat clivant** ("Backend > Frontend ?", salaires, tel outil vs tel autre) → **explosion des commentaires** (23) car les gens argumentent. C'est le meilleur levier d'ENGAGEMENT.
+
+Pourquoi ça marche : sujet que toute la communauté dev vit → identification, débat, repartages. Pas de produit, pas de niche.
+
+### Hiérarchie constatée
+1. **Débat clivant universel** → max de commentaires/engagement. ← pour faire vivre le post et signaler l'algo.
+2. **Aphorisme/opinion universelle** → bonne portée (~1 500), peu d'engagement.
+3. **Storytelling universel** (sécurité) → portée moyenne (~100-1 500).
+4. **Build-in-public de niche** (terminal, produit) → portée faible (50-107). Utile pour la CONVERSION, pas la croissance.
+
+### Règles à appliquer
+1. **Pour l'audience/engagement : poste des débats et opinions universelles sur le métier** (backend vs frontend, bonnes pratiques, salaires, outils, erreurs de junior…). Format court, tranché, débattable.
+2. **Le sujet + le hook sont déterminants** : un sujet universel porte ~15-30× plus qu'un sujet de niche. Prouvé (1 558 vs ~70).
+3. **Poser une QUESTION clivante en fin de post** booste énormément les commentaires (cf. les 23 du post salaires).
+4. **Le format image "citation"** (texte de l'aphorisme en visuel) a bien marché sur "Un bon dev" — à retester.
+5. **Alterne :** posts d'opinion/débat (audience) ET posts produit (conversion). Pas que du build-in-public de niche.
+6. **Rester honnête sur les chiffres** : logger uniquement des valeurs vues sur capture, jamais de mémoire.
 
 ---
 
@@ -41,15 +60,161 @@ Basé sur 6 posts de Hanif (juillet 2026). **Honnêteté statistique : échantil
 
 ---
 
-## Post — "Tu ne trouveras jamais mon mot de passe" (sécurité / mot de passe en dur)
-- **Archétype :** Storytelling / insight (leçon technique)
-- **Format :** texte (vidéo/capture optionnelle : screenshot flouté de l'onglet Réseau)
+## Post — TaskWise : "j'en ai fait la plus belle possible" (design)
+- **Archétype :** Build-in-public + opinion design (semi-universelle)
+- **Format :** texte + **capture de TaskWise** (le design soft UI est le héros)
 - **Impressions :** _à remplir_
 - **Likes :** _à remplir_
 - **Commentaires :** _à remplir_
 - **Reposts :** _à remplir_
 - **Date :** _à remplir_
-- **Hypothèse testée :** sujet universel (sécurité) + démonstration de compétence → devrait mieux porter que les posts "terminal" de niche.
+- **Angle :** assumer le cliché (to-do list = projet banal) puis le retourner en statement design → plus universel qu'un simple "regardez mon appli". Question-débat finale pour l'engagement.
+
+Une to-do list, c'est LE projet le plus banal du monde.
+
+Tous les devs en ont codé une.
+
+Alors j'en ai fait la plus belle possible.
+
+Voici TaskWise.
+
+La plupart des apps qu'on code sont fonctionnelles. Point.
+
+Elles marchent… mais elles ne donnent envie à personne.
+
+Moi, je crois l'inverse :
+
+Une app utile peut être belle.
+
+Une app banale peut avoir du caractère.
+
+Alors j'ai soigné chaque détail :
+
+- Un design tout en douceur, des ombres qui donnent du relief
+- Des stats claires : tâches, taux de complétion, catégories
+- Des filtres fluides par statut et par priorité
+
+Gérer sa journée. Mais avec élégance.
+
+Parce qu'on juge une interface en 3 secondes.
+
+Et ces 3 secondes décident si l'utilisateur reste… ou s'en va.
+
+Le fond fait qu'un produit marche.
+
+La forme fait qu'on l'aime.
+
+Et toi — tu soignes le design de tes projets, ou tu t'arrêtes à « ça marche » ? 👇
+
+---
+
+## Post — "Le plus dur, ce n'était pas le temps réel" (galère de l'installeur)
+- **Archétype :** Storytelling technique vécu + enseignement universel (livrer > construire)
+- **Format :** texte + vidéo (démo Relay)
+- **Impressions :** 236
+- **Likes :** 8 (record pour un post "vécu" — la leçon a résonné)
+- **Commentaires :** 1
+- **Reposts :** 0
+- **Date :** ~14 juillet 2026
+- **Résultat :** meilleur post "vécu" à ce jour. 236 imp + 8 likes = un cran au-dessus du build-in-public brut (50-107). MAIS reste sous les posts d'opinion universelle (1 500+). Raison : le packaging Python est vécu et attachant, mais encore un peu technique/niche vs une vérité que TOUS les devs vivent. → Le combo idéal = vécu de Hanif + leçon la plus universelle possible.
+
+J'ai construit une messagerie temps réel.
+
+Le plus dur, ce n'était pas le temps réel.
+
+Le temps réel, Django Channels et les WebSockets s'en chargent. Quelques jours, et ça tournait sur ma machine.
+
+Le vrai cauchemar a commencé après.
+
+Faire en sorte que ça tourne sur la machine des autres.
+
+Parce qu'un utilisateur ne va pas :
+
+- installer Python
+- gérer des dépendances
+- taper trois commandes dans un terminal
+
+Il veut cliquer. Point.
+
+Alors j'ai dû transformer mon projet Python en un vrai installeur Windows.
+
+Un .exe. Sans dépendances. Qui s'installe sans droits admin. Qui rend la commande relay disponible partout.
+
+Et là, tu découvres l'enfer des détails :
+
+- « Windows a protégé votre ordinateur » qui fait fuir les gens
+- L'app non signée qui inquiète
+- Le packaging qui casse pour une raison obscure
+- Tester sur une machine vierge. Encore. Et encore.
+
+Le temps réel, c'était de l'ingénierie.
+
+La distribution, c'était mille petits murs.
+
+Ma leçon :
+
+Ton code qui marche sur ta machine ne vaut rien.
+
+Tant qu'il ne marche pas sur celle des autres.
+
+Le plus dur, en dev, ce n'est pas de construire.
+
+C'est de livrer.
+
+Et toi — c'est quoi le « dernier kilomètre » qui t'a fait le plus galérer ? 👇
+
+---
+
+## ⭐ Post — Débat "Backend > Frontend : le salaire le prouve ?" (RECORD D'ENGAGEMENT)
+- **Archétype :** Opinion / débat clivant sur un sujet universel du métier
+- **Format :** texte (chiffres de salaires + liens des sources en commentaires)
+- **Impressions :** _non relevé (à compléter)_
+- **Réactions :** 71
+- **Commentaires :** 23 🔥 (record)
+- **Reposts :** 2
+- **Date :** ~juillet 2026
+- **Pourquoi ça marche :** sujet clivant (backend vs frontend + salaires) + question finale ("l'écart va-t-il disparaître ?") → les gens argumentent en commentaires. LE meilleur levier d'engagement à ce jour.
+
+Structure : titre-question clivant → "j'ai regardé les chiffres" → données (salaires moyens) → analyse de l'écart (puces) → nuance ("le frontend a changé la donne") → question ouverte finale.
+
+---
+
+## ⭐ Post — "Un bon dev, c'est celui qui supprime du code" (aphorisme, bonne portée)
+- **Archétype :** Opinion / aphorisme universel sur le métier (antithèse)
+- **Format :** texte + **image "citation"** (l'aphorisme rendu en visuel)
+- **Impressions :** 1 558 (chiffre vérifié sur capture — PAS 100k)
+- **Réactions :** 12
+- **Commentaires :** 3
+- **Reposts :** 1
+- **Date :** ~juillet 2026
+- **Pourquoi ça a marché :** antithèse quotable "ce n'est pas X, c'est Y" + vérité universelle du métier. Bonne portée, engagement modeste. Le format image "citation" a peut-être aidé.
+
+Texte complet :
+
+Un bon dev, ce n'est pas celui qui écrit le plus de lignes de code.
+C'est celui qui supprime du code inutile.
+
+Depuis que j'ai compris ça, mes projets sont devenus :
+✅ plus clairs
+✅ plus rapides
+✅ plus faciles à maintenir
+
+Moralité : coder, ce n'est pas "ajouter toujours plus", c'est simplifier au maximum.
+
+Et toi, tu préfères écrire ou supprimer du code ?
+
+---
+
+## Post — "Tu ne trouveras jamais mon mot de passe" (sécurité / mot de passe en dur)
+- **Archétype :** Storytelling / insight (leçon technique)
+- **Format :** texte (vidéo/capture optionnelle : screenshot flouté de l'onglet Réseau)
+- **Impressions :** 144 (à 23h ; était 107 plus tôt)
+- **Likes :** 2
+- **Commentaires :** 0
+- **Reposts :** 0
+- **Date :** ~13 juillet 2026
+- **Format :** texte + image "citation"
+- **Note :** reste dans le couloir niche (66-144). Le sujet "sécurité / mot de passe en dur" est trop technique/étroit pour percer. Version réécrite en antithèse ci-dessous : n'a PAS fait mieux → l'idée compte plus que le format.
 
 « Tu ne trouveras jamais le mot de passe de mon site. »
 
@@ -84,6 +249,16 @@ La vraie sécurité se joue côté serveur. Jamais dans le navigateur.
 (Rassure-toi, mon ami a corrigé depuis 😄)
 
 Et toi — tu as déjà trouvé une faille comme ça, juste par curiosité ? 👇
+
+---
+
+## Post — Sécurité, VERSION RÉÉCRITE (hook antithèse) — comparaison
+- **Archétype :** Storytelling + antithèse d'ouverture
+- **Format :** texte + image "citation"
+- **Impressions :** 170 (à 2j ; était 66 à 6h)
+- **Likes :** 2 · **Commentaires :** 0 · **Reposts :** 0
+- **Date :** ~13 juillet 2026
+- **Leçon clé :** réécrire le même sujet avec le "format gagnant" (antithèse) N'A PAS fait décoller la portée (170, couloir niche). → Le format ne sauve pas un sujet niche. C'est l'universalité de l'idée qui compte. Hook : « La sécurité, ce n'est pas cacher un mot de passe. C'est ne jamais l'envoyer dans le navigateur. »
 
 ---
 

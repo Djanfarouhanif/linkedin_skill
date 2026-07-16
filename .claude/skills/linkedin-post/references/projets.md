@@ -104,3 +104,15 @@ Player (elo défaut 1000), Match (seed, status), MatchEntry (score, actions, tim
 - La discipline du MVP : définir ce qu'on ne construit PAS (§10).
 - "Un jeu de hack dans le terminal" (hook contre-intuitif).
 - Build in public : du PRD au playtest "fun / pas fun".
+
+---
+
+## TaskWise — To-do list web au design soigné (soft UI / neumorphism)
+
+- **Statut :** construit (au moins une V1 fonctionnelle vue en capture). _À compléter : en ligne ? URL ? open source ?_
+- **Pitch une ligne :** un gestionnaire de tâches web élégant. Slogan : « Gérez votre journée avec élégance. »
+- **L'angle central = le DESIGN.** Interface soft UI (neumorphism) : ombres douces, relief, esthétique apaisante. C'est le point de différenciation que Hanif met en avant ("style parfait").
+- **Fonctionnalités vues :** dashboard avec stats (tâches totales, taux de complétion, catégories), création de tâche, catégories (ex. Personnel), priorités (basse/…), filtres par statut (Tout / À faire / En cours / Terminé) et par priorité, recherche, édition/suppression, dates.
+- **Stack :** _à préciser par Hanif_ (probablement Angular côté front vu son profil — à confirmer, ne pas inventer).
+- **Angles de posts :** le design comme différenciateur ("une to-do list, mais belle"), soigner l'UX même sur un projet banal, le détail qui fait la différence, avant/après d'un design.
+
