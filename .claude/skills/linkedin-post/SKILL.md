@@ -23,6 +23,7 @@ Les posts parlent de **DJANFARAROU Hanif** et de SON parcours — jamais de celu
 - La **vie de dev** (quotidien, réalité du métier, coulisses de projets, décisions techniques).
 - Des **conseils code** (Angular, Django, Python, bonnes pratiques, astuces) — pose son expertise.
 - Son **parcours** peut être évoqué pour l'humain, mais **sans se réduire à "l'autodidacte"** (voir règle plus bas).
+- **⭐ Le partage de RESSOURCES GRATUITES — ligne éditoriale principale depuis septembre 2026.** Tiers gratuits, quotas réels, outils, GPU/Colab, datasets, docs, crédits, alternatives gratuites à des services payants. Hanif partage ce qu'il utilise VRAIMENT, avec les chiffres exacts ET les limites honnêtes. C'est le format à privilégier par défaut quand il donne une ressource comme matière.
 
 **Voix & ton :**
 - Ton juste : **humble, sincère, confiant**, jamais le hype survendu des exemples anglophones. On préfère l'archétype **Storytelling** et **Mindset** au registre "hype produit", mais avec de l'assurance — c'est un builder qui sait ce qu'il fait.
@@ -62,7 +63,10 @@ Données de Hanif (juillet 2026), chiffres vérifiés sur captures. Portée : pr
    - **Aphorisme en antithèse** ("Un bon dev, ce n'est pas X, c'est Y") → bonne portée (~1 558), quotable.
 2. **C'est l'UNIVERSALITÉ DE L'IDÉE qui compte, pas le format.** Le format antithèse/image seul ne suffit PAS : appliqué à un sujet niche (sécurité "mot de passe en dur"), il plafonne à 66-144, comme le reste. Appliqué à une vérité que TOUS les devs vivent ("un bon dev supprime du code"), il fait 1 558. → Avant d'écrire, se demander : "est-ce que 90 % des devs se reconnaissent dans cette idée ?" Si non, portée faible, quel que soit le format.
 3. **Le sujet universel porte ~15-30× plus qu'un sujet de niche** (1 558 vs ~70), même avec un petit compte. Ne jamais dire "seule la taille du réseau compte" — faux. Mais ne pas promettre non plus qu'un format seul fait un carton.
-3. **Le build-in-public de niche (produit, terminal) porte peu (50-107)** mais sert la **conversion**. Alterner : opinion/débat (audience) + produit (conversion).
+3. **Un post produit PEUT cartonner — s'il a un HOOK UNIVERSEL + un concept qui SURPREND.** Nuance clé (corrige une conclusion trop simpliste) :
+   - Le post "Tout le monde discute sur WhatsApp" (Relay en vidéo) = **3 865 impressions, 61 réactions** → c'est un post PRODUIT. Il a marché grâce à : (a) hook universel (WhatsApp), (b) concept surprenant ("une messagerie DANS LE TERMINAL" → "attends, quoi ?!"), (c) vidéo + temps.
+   - Les posts produit qui FLOPPENT (TaskWise 83, terminal 50-107) manquaient de surprise : "une to-do list" n'intrigue personne. La niche n'est pas le problème ; l'absence de **hook universel + surprise** l'est.
+   - **Règle affinée :** avant un post produit, se demander : *"Le hook parle-t-il à tout le monde ? Le concept surprend-il (effet 'quoi ?!') ?"* Si oui → potentiel réel. Si non → ça restera à ~100. Sinon, partir d'une conviction universelle et laisser le produit affleurer.
 4. **La vidéo n'est pas un multiplicateur fiable** (posts vidéo à 49-107). Ne pas la survendre.
 5. **Décliner les formats gagnants :** débats et aphorismes sur le code propre, le métier, les salaires, les outils, les erreurs de junior. Court, tranché, avec une question clivante à la fin.
 6. **Honnêteté chiffrée : ne loguer que des valeurs vues sur capture** (le "100k" évoqué de mémoire était faux — réel : 1 558).
@@ -140,6 +144,25 @@ Ton : chaleureux, humble, émotionnel. Phrases très courtes qui claquent. C'est
 Objectif : partager de la valeur "insider", asseoir l'autorité, créer de la FOMO. Exemple 10.
 Structure : Accroche exclusivité ("J'ai (enfin) décroché [accès/expérience rare]") → promesse ("Voici tout ce que j'ai appris") → liste numérotée d'insights → zoom sur le plus important (souvent une question rapportée entre guillemets + la réponse) → data/preuve perso (chiffres, top posts) → punchline motivante → PS participatif ("quelles questions avez-vous ? je les poserai la prochaine fois").
 Ton : généreux, "je te ramène ce que j'ai vu". Émojis 👀 👇 ♻️ ok avec parcimonie.
+
+### 8. Ressource gratuite (partage de valeur brute) — ⭐ format signature
+
+Objectif : donner une ressource utile et gratuite, gagner en portée et en sauvegardes (le signal le plus fort de LinkedIn). C'est la ligne éditoriale principale de Hanif depuis septembre 2026.
+
+Structure :
+1. **Accroche qui casse une croyance de coût** ("Pour entraîner un modèle d'IA, il te faut une machine à 3 000 €." / "Faux.") ou une accroche-chiffre ("15 Go de VRAM. Gratuits.").
+2. **Nommer la ressource** tout de suite, sans suspense.
+3. **Les chiffres bruts** — une ligne par donnée, format compact (`RAM : ~12-13 Go`). C'est la valeur du post, ne pas la noyer.
+4. **⚠ Les limites, honnêtement** : la contrepartie, ce qui n'est pas garanti, le piège. C'est ce qui rend le post crédible et le distingue des posts "10 outils gratuits" recyclés.
+5. **La preuve par son usage** : ce que LUI fait tourner dessus, avec ses vrais chiffres de projet. Sans ça, le post devient générique → interdit (cf. règle anti-générique).
+6. **Punchline** : l'obstacle n'était pas le matériel / l'argent.
+7. **PS-question** ou "dis-moi ce que tu veux que je documente ensuite".
+
+Règles :
+- **Jamais une liste "top 10 outils gratuits"** sans usage personnel — c'est exactement le générique que Hanif rejette.
+- **Chiffres exacts uniquement** (ceux qu'il a vus/mesurés). Jamais d'arrondi vendeur.
+- **Une ressource par post**, creusée, plutôt que cinq survolées.
+- Le "gratuit" est le hook universel : il parle à tous les devs, étudiants et curieux, y compris hors de sa niche.
 
 ## Les variantes hybrides
 

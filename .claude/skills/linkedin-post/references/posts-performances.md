@@ -60,15 +60,62 @@ Pourquoi ça marche : sujet que toute la communauté dev vit → identification,
 
 ---
 
-## Post — TaskWise : "j'en ai fait la plus belle possible" (design)
-- **Archétype :** Build-in-public + opinion design (semi-universelle)
-- **Format :** texte + **capture de TaskWise** (le design soft UI est le héros)
+## Post — "On juge une appli en 3 secondes" (conviction design universelle + TaskWise en preuve)
+- **Archétype :** Opinion/conviction universelle + vécu discret (sweet spot "vécu + leçon universelle")
+- **Format :** texte + capture TaskWise (en preuve, PAS en vitrine)
 - **Impressions :** _à remplir_
 - **Likes :** _à remplir_
 - **Commentaires :** _à remplir_
 - **Reposts :** _à remplir_
 - **Date :** _à remplir_
-- **Angle :** assumer le cliché (to-do list = projet banal) puis le retourner en statement design → plus universel qu'un simple "regardez mon appli". Question-débat finale pour l'engagement.
+- **Angle :** contrairement au post TaskWise (83, produit = sujet), ici le SUJET est la conviction universelle ("on juge une appli en 3 s"), et TaskWise n'affleure qu'en preuve discrète. Teste l'hypothèse : conviction universelle + produit discret > produit en vitrine.
+
+On juge une appli en 3 secondes.
+
+Pas ses fonctionnalités. Pas ton code. Son allure.
+
+Longtemps, j'ai codé comme la plupart des devs :
+
+« Ça marche ? Alors c'est bon. »
+
+Erreur.
+
+Parce que l'utilisateur, lui, ne voit pas ton code.
+
+Il voit une interface. Et il décide en 3 secondes s'il reste… ou s'il fuit.
+
+Depuis que j'ai compris ça, ma façon de coder a changé :
+
+- Je pense au premier écran avant de penser à la logique
+- Je soigne les détails que « personne ne remarque » (et que tout le monde ressent)
+- Je teste sur quelqu'un qui découvre, pas sur moi qui sais déjà où cliquer
+- Une fonctionnalité mal présentée = une fonctionnalité qui n'existe pas
+
+La semaine dernière, j'ai passé plus de temps sur l'apparence de ma to-do list que sur ses fonctions.
+
+Volontairement.
+
+Parce qu'une app utile mais moche, on l'abandonne.
+
+Une app belle ET utile, on y revient.
+
+Le fond fait qu'un produit marche.
+
+La forme fait qu'on l'aime.
+
+Et toi — tu codes d'abord pour que « ça marche », ou pour que « ça donne envie » ? 👇
+
+---
+
+## Post — TaskWise : "j'en ai fait la plus belle possible" (design)
+- **Archétype :** Build-in-public + opinion design (semi-universelle)
+- **Format :** texte + capture de TaskWise (design soft UI)
+- **Impressions :** 83
+- **Likes :** 1
+- **Commentaires :** 0
+- **Reposts :** 0
+- **Date :** ~16 juillet 2026
+- **Résultat :** l'angle "design" N'A PAS fait décoller le post (83 = couloir produit niche). Malgré visuel + punchline + question, ça reste fondamentalement "regardez mon appli". → Confirme : montrer son produit = faible portée, même avec un bon angle. Pour percer, parler d'une vérité universelle, pas de son projet.
 
 Une to-do list, c'est LE projet le plus banal du monde.
 
@@ -111,7 +158,7 @@ Et toi — tu soignes le design de tes projets, ou tu t'arrêtes à « ça march
 ## Post — "Le plus dur, ce n'était pas le temps réel" (galère de l'installeur)
 - **Archétype :** Storytelling technique vécu + enseignement universel (livrer > construire)
 - **Format :** texte + vidéo (démo Relay)
-- **Impressions :** 236
+- **Impressions :** 251 (à 2j ; était 236)
 - **Likes :** 8 (record pour un post "vécu" — la leçon a résonné)
 - **Commentaires :** 1
 - **Reposts :** 0
@@ -262,17 +309,20 @@ Et toi — tu as déjà trouvé une faille comme ça, juste par curiosité ? �
 
 ---
 
-## Post ⭐ GAGNANT — "Tout le monde discute sur WhatsApp" (VERSION VIDÉO)
-- **Archétype :** Storytelling → Produit (soft launch)
+## Post ⭐⭐ MEILLEUR À CE JOUR — "Tout le monde discute sur WhatsApp" (VERSION VIDÉO)
+- **Archétype :** Storytelling → Produit (soft launch), MAIS porté par un hook universel + concept surprenant
 - **Format :** texte + **vidéo** (screencast du terminal)
-- **Impressions :** 1 503
-- **Likes :** 30
-- **Commentaires :** 6
+- **Impressions :** 3 865 (a grimpé de 1 503 → 3 865 sur plusieurs jours)
+- **Likes :** 61
+- **Commentaires :** 10
 - **Reposts :** 0
 - **Date :** ~9 juillet 2026
 
-Hook gagnant : « Tout le monde discute sur WhatsApp. » suivi de la présentation de Relay,
-accompagné d'une **vidéo de démonstration**. C'est le combo qui a explosé : hook court + vidéo.
+Pourquoi ce post PRODUIT a cartonné (alors que les autres produits plafonnent à 50-107) :
+1. **Hook universel** : "Tout le monde discute sur WhatsApp" → chacun s'y reconnaît.
+2. **Concept qui SURPREND** : "une messagerie… dans le terminal" → effet "attends, quoi ?!" = curiosité, clics, partages.
+3. **Vidéo** de démo + **temps** (a mûri plusieurs jours).
+→ Un post produit PEUT très bien performer SI le hook est universel ET le concept surprenant. Le produit n'est pas le problème ; c'est l'absence de hook universel + surprise qui tue les autres.
 
 ---
 
@@ -425,3 +475,160 @@ Je lis TOUS les commentaires. Vos retours vont décider de la V2 👇
 👉 Et si vous voulez tester la V1 (la messagerie) avant de donner votre avis, c'est par ici : https://terminal-chat.hanifcode.fr/documentation
 
 PS : c'est encore une idée sur le papier. C'est le bon moment pour la façonner avec vous.
+
+---
+
+## Post — TogoExplore, hook "Cherche *que visiter au Togo* sur Google"
+- **Archétype :** Conviction / problème universel → produit en preuve (Storytelling → Produit, soft)
+- **Format :** texte + capture d'écran TogoExplore
+- **Impressions :** _à remplir_
+- **Likes :** _à remplir_
+- **Commentaires :** _à remplir_
+- **Reposts :** _à remplir_
+- **Date :** _à remplir_
+- **Angle :** on ne vend pas l'API ni la stack. Le sujet, c'est un manque que tout le monde peut vérifier en 10 secondes (le patrimoine togolais quasi absent du web) + une fibre de fierté locale. Le produit n'arrive qu'en réponse. PS-question participative pour alimenter la base et les commentaires.
+
+Cherche « que visiter au Togo » sur Google.
+
+Vas-y, essaie vraiment.
+
+Tu tomberas sur deux blogs de voyage et une page Wikipédia.
+
+Pendant ce temps : Koutammakou classé à l'UNESCO, le mont Agou, les cascades de Kpimé, Togoville, Fazao…
+
+Le patrimoine existe.
+
+Il n'est juste pas en ligne.
+
+C'est pour ça que je construis TogoExplore.
+
+Une plateforme pour découvrir les sites touristiques du Togo. Les trouver, les noter, les partager.
+
+En ce moment, je construis l'API en Django REST Framework :
+
+Les fiches des sites.
+
+Les favoris, pour que chacun se compose sa propre carte.
+
+Les avis et les notes — parce que la vraie valeur ne viendra pas de moi. Elle viendra de ceux qui y sont allés.
+
+Je ne construis pas un catalogue.
+
+Je construis un endroit où les Togolais racontent le Togo.
+
+Un pays qu'on ne trouve pas en ligne n'existe pas pour celui qui le cherche.
+
+Alors on le rend visible.
+
+PS : quel endroit du Togo mérite d'être connu et ne l'est pas encore ? Je l'ajoute à la base 👇
+
+---
+
+## Post — Défi 2 Environnement (Togo AI Lab), hook "87,7 % vs 6,2 %"
+- **Archétype :** Flip de la sagesse conventionnelle + data storytelling → livrable en preuve
+- **Format :** texte + capture du dashboard (+ liens dashboard/GitHub fournis par Hanif)
+- **Impressions :** _à remplir_
+- **Likes :** _à remplir_
+- **Commentaires :** _à remplir_
+- **Reposts :** _à remplir_
+- **Date :** _à remplir_
+- **Angle :** on n'ouvre pas sur « j'ai participé à un défi » (auto-centré, faible portée). On ouvre sur une croyance fausse que tout le monde partage (pollution = usines), on la casse avec un chiffre, puis on déroule la chaîne causale jusqu'à la punchline « une histoire de cuisine ». Le livrable Streamlit n'arrive qu'en preuve. Question finale pour l'engagement.
+
+On parle de pollution, on pense usines, voitures, centrales.
+
+Au Togo, le secteur énergétique pèse 6,2 % des émissions de gaz à effet de serre.
+
+L'agriculture, les forêts et les terres ? 87,7 %.
+
+J'ai participé au Défi 2 « Environnement » du Laboratoire d'IA du Togo : six jeux de données croisés — électricité, météo, pollution, sources d'énergie, forêts.
+
+Et un chiffre explique presque tout le reste.
+
+89,4 % des ménages cuisinent encore au bois ou au charbon.
+
+Parce que seulement 25 % des zones rurales ont accès à l'électricité. Contre 96,5 % en ville.
+
+71,5 points d'écart. Dans le même pays.
+
+Alors on coupe. Pour cuisiner.
+
+Le problème climatique du Togo, ce n'est pas une histoire d'usines.
+
+C'est une histoire de cuisine.
+
+Les Savanes et la Kara cumulent tout : chaleur élevée, faible couverture forestière, retard d'électrification. Les données ne laissent pas beaucoup de place au doute sur les zones à traiter en premier.
+
+J'en ai fait un tableau de bord interactif (Python + Streamlit) : cartographie des forêts classées, filtres par région, analyse croisée.
+
+Parce qu'un chiffre dans un CSV ne change rien.
+
+Un chiffre qu'on peut explorer, si.
+
+Électrifier les campagnes, ce n'est pas seulement du confort.
+
+C'est de la politique climatique.
+
+Le dashboard : bilalidjanfarou-svg-defi2-environnement-dashboardapp-0nrabd.streamlit.app
+Le code : github.com/bilalidjanfarou-svg/defi2_environnement
+
+PS : avant de lire ce post, vous auriez misé sur quel secteur en tête des émissions du Togo ? 👇
+
+#DataScience #Togo #TogoAILab #Streamlit #Python
+
+---
+
+## Post — Ressources gratuites pour entraîner une IA (révélation "Google Colab" en fin de post)
+- **Archétype :** 8 — Ressource gratuite (ligne éditoriale depuis sept. 2026)
+- **Format :** texte seul (capture des specs possible)
+- **Impressions :** _à remplir_
+- **Likes :** _à remplir_
+- **Commentaires :** _à remplir_
+- **Reposts :** _à remplir_
+- **Enregistrements :** _à remplir_
+- **Date :** _à remplir_
+- **Angle :** ⚠ choix de Hanif — **la ressource n'est nommée qu'À LA FIN**. Tout le post décrit une machine et ce qu'elle permet ; le lecteur se demande « c'est quoi, et combien ça coûte ? » jusqu'à la révélation « Ça s'appelle Google Colab. Version gratuite. » Le post n'explique PAS comment entraîner (pas de fp16 / gradient checkpointing — ça fera un post à part), il montre **ce qu'on peut FAIRE** : 5 usages concrets, du from scratch au fine-tune 7B en QLoRA. La punchline ferme après la révélation.
+- **⚠ Précisions techniques :** modèle de Hanif = **19M de paramètres**, dataset = **~300M de caractères** (ne jamais confondre). QLoRA 4-bit d'un 7B sur T4 = réel et documenté. From scratch, ~200M paramètres = ordre de grandeur réaliste sur 15 Go.
+
+15 Go de VRAM sur une NVIDIA T4.
+
+100 Go de disque.
+
+13 Go de RAM.
+
+12 heures de calcul d'affilée.
+
+Prix : 0 €.
+
+Si tu es curieux de savoir comment l'IA fonctionne vraiment, tu peux commencer par entraîner ton propre modèle. From scratch.
+
+Pas appeler une API. Le construire.
+
+Et voilà ce que ces ressources te permettent de faire, concrètement :
+
+→ Entraîner un modèle de langage from scratch, jusqu'à ~200 millions de paramètres. Le tien. Sur tes propres textes.
+
+→ Fine-tuner un modèle open source de 7 milliards de paramètres (Mistral, Llama) en QLoRA 4-bit. Oui, 7B. Sur une carte gratuite.
+
+→ Entraîner un classifieur en quelques minutes : détection de spam, analyse de sentiment, tri automatique de messages.
+
+→ Transcrire des heures d'audio avec Whisper.
+
+→ Entraîner un LoRA de génération d'images sur ton propre style.
+
+⚠️ La contrepartie, à connaître avant de se lancer :
+
+Le disque est temporaire. La session peut se couper en plein entraînement. Si tes checkpoints ne partent pas sur Drive, tu recommences depuis zéro.
+
+Moi, j'entraîne en ce moment un modèle de langage de 19 millions de paramètres sur ~300 millions de caractères de texte.
+
+Budget matériel : 0 €.
+
+Tout ça tient dans un onglet de navigateur.
+
+Ça s'appelle Google Colab. Version gratuite.
+
+Ce qui bloque la plupart des curieux, ce n'est pas le matériel.
+
+C'est de croire qu'il faut en acheter.
+
+PS : je documente cet entraînement étape par étape. Vous voulez que je détaille la config exacte ? Dites-le en commentaire 👇

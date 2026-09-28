@@ -116,3 +116,69 @@ Player (elo défaut 1000), Match (seed, status), MatchEntry (score, actions, tim
 - **Stack :** _à préciser par Hanif_ (probablement Angular côté front vu son profil — à confirmer, ne pas inventer).
 - **Angles de posts :** le design comme différenciateur ("une to-do list, mais belle"), soigner l'UX même sur un projet banal, le détail qui fait la différence, avant/après d'un design.
 
+
+---
+
+## TogoExplore — Plateforme web de découverte des sites touristiques du Togo
+
+- **Statut :** en développement. Partie API (Django REST Framework) en cours, plusieurs briques déjà en place. _À compléter : en ligne ? URL ? open source ? front final ?_
+- **Pitch une ligne :** une plateforme web pour découvrir, noter et partager les sites touristiques du Togo — valoriser le patrimoine togolais en le rendant visible en ligne.
+
+### Fonctionnalités déjà en place (côté API)
+- API des sites touristiques (fiches).
+- Système de **favoris** pour les utilisateurs connectés.
+- Système d'**avis et de notes**.
+- Sérialisation des données (DRF serializers).
+- Gestion des **permissions et de l'authentification**.
+- **Documentation automatique** de l'API (Swagger / OpenAPI).
+
+### Stack technique
+Python · Django · Django REST Framework · SQLite · HTML/CSS · Git/GitHub
+_(À confirmer : base de prod prévue — PostgreSQL ? front Angular ou templates Django ?)_
+
+### Angles storytelling exploitables
+- **Le meilleur hook (validé par l'usage) :** l'absence de présence numérique du patrimoine togolais → "cherche *que visiter au Togo* sur Google, tu ne trouves presque rien". Problème concret + fierté locale = hook large.
+- Le patrimoine comme sujet universel (tout le monde a déjà cherché où partir), le produit n'affleure qu'en preuve.
+- La valeur vient des utilisateurs (avis/notes), pas du fondateur → angle communauté.
+- ⚠ **À éviter :** la liste de features + "ça me permet d'apprendre et de progresser". Posture de débutant, et c'est le schéma qui plafonne à ~80 impressions (cf. TaskWise).
+
+---
+
+## Défi 2 « Environnement » — Laboratoire d'IA du Togo (Togo AI Lab)
+
+- **Statut :** livré. Participation au défi data du **Togo AI Lab** sur l'accès à l'électricité, les énergies propres et la protection des forêts au Togo.
+- **Dashboard :** https://bilalidjanfarou-svg-defi2-environnement-dashboardapp-0nrabd.streamlit.app
+- **Code source :** https://github.com/bilalidjanfarou-svg/defi2_environnement
+- **Pitch une ligne :** une analyse croisée de 6 jeux de données togolais, livrée sous forme de tableau de bord interactif orienté recommandations.
+
+### Données & constats (chiffres fournis par Hanif — ne pas arrondir ni inventer)
+- **6 jeux de données croisés** : électricité, météo, pollution, sources d'énergie, forêts.
+- **Écart d'accès à l'électricité : 71,5 points** entre urbain (**96,5 %**) et rural (**25 %**).
+- **89,4 % des ménages** dépendent du bois ou du charbon pour la cuisson.
+- **Émissions de GES : 87,7 %** pour agriculture/forêt/terres, contre **6,2 %** pour le secteur énergétique.
+- **Savanes et Kara** = zones prioritaires (température élevée + faible couverture forestière + retard d'électrification).
+
+### Livrable technique
+Tableau de bord interactif **Python + Streamlit** : cartographie des forêts classées, filtres géographiques, analyse croisée orientée recommandations.
+
+### Angles storytelling exploitables
+- **Le meilleur angle (utilisé) :** le flip contre-intuitif — on croit que la pollution vient des usines, au Togo elle vient des terres et des forêts (87,7 % vs 6,2 %) → et la cause remonte à la cuisson au bois, donc au manque d'électricité rurale. Chaîne causale lisible, punchline « une histoire de cuisine ».
+- L'inégalité 96,5 % / 25 % dans un même pays (angle social fort).
+- Le data pour la décision publique : « un chiffre dans un CSV ne change rien, un chiffre explorable si ».
+- Montre une corde de plus que le web : data / analyse / Streamlit.
+
+---
+
+## LLM maison — Modèle de langage entraîné from scratch (19M paramètres)
+
+- **Statut :** en cours d'entraînement (sept. 2026). _À préciser par Hanif : architecture (GPT-like ? nb de couches ?), tokenizer, langue du dataset, source du corpus, objectif final (démo ? produit ? article ?)._
+- **Taille du modèle :** **19 millions de paramètres**.
+- **Dataset :** **~300 millions de caractères**.
+- **Environnement d'entraînement :** **Google Colab, tier GRATUIT** — GPU NVIDIA T4 (~15 Go de VRAM), RAM système ~12-13 Go, disque `/content` ~70-100 Go (temporaire, non garanti), session jusqu'à ~12 h, Google Drive 15 Go.
+- **Contrainte clé :** 15 Go de VRAM largement suffisants pour 19M de paramètres ; le vrai risque est la **volatilité de la VM** (disque effacé, session coupée) → checkpoints sur Drive.
+
+### Angles storytelling exploitables
+- ⭐ **Ressource gratuite (archétype 8)** : « on peut entraîner un LLM sans acheter de GPU » — hook universel (coût) + surprise + preuve par SON usage.
+- Les limites honnêtes de Colab Free (le disque temporaire, rien n'est garanti) → crédibilité.
+- Build in public de l'entraînement : courbe de loss, premiers textes générés (bons ET ratés), coût réel = 0.
+- Ce qu'on apprend en construisant un LLM plutôt qu'en appelant une API.
