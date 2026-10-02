@@ -632,3 +632,33 @@ Ce qui bloque la plupart des curieux, ce n'est pas le matériel.
 C'est de croire qu'il faut en acheter.
 
 PS : je documente cet entraînement étape par étape. Vous voulez que je détaille la config exacte ? Dites-le en commentaire 👇
+
+---
+
+## Post — AutoClaw : 200 M de tokens (version courte, texte de Hanif)
+- **Archétype :** 8 — Ressource gratuite, format court
+- **Format :** texte + capture de la landing AutoClaw
+- **Impressions :** _à remplir_
+- **Likes :** _à remplir_
+- **Commentaires :** _à remplir_
+- **Reposts :** _à remplir_
+- **Enregistrements :** _à remplir_
+- **Date :** _à remplir_
+- **⚠ Leçon de rédaction (important) :** Hanif avait écrit ce post lui-même et a REFUSÉ deux versions longues et structurées (verdict en tête, limites, punchline, PS). Il voulait **son texte, corrigé, point** — ~60 mots. Quand il fournit un texte déjà rédigé et dit « mon post doit être ça », ne pas le réécrire ni l'enrichir : corriger l'orthographe, aérer, et s'arrêter là. Proposer les ajouts à part, jamais dans le post livré.
+- **Note :** ligne finale ajoutée à sa demande (définition de l'outil pour ceux qui ne connaissent pas). Mélange tu/vous assumé par Hanif — lui laisser le choix, ne pas uniformiser sans le lui dire.
+
+AutoClaw offre 200 millions de tokens.
+
+Je l'ai testé, et j'avoue : le résultat n'est pas aussi bon qu'OpenClaw. Mais ça fait l'affaire.
+
+Tu peux :
+
+→ Faire des recherches web ciblées
+
+→ Rédiger des rapports
+
+→ Le connecter à ton Gmail, ton Google Calendar…
+
+→ Automatiser des tâches planifiées
+
+Si vous ne voyez pas ce que c'est : une application de bureau qui installe un assistant IA autonome directement sur votre ordinateur.

@@ -75,6 +75,9 @@ Données de Hanif (juillet 2026), chiffres vérifiés sur captures. Portée : pr
 
 - **Une idée par ligne.** Phrases courtes, beaucoup de sauts de ligne. Le post doit "respirer".
 - **Accroche forte en 1re ligne** (le "hook") : contraste, tension, chiffre, question, ou promesse. C'est 80% du travail.
+- **⛔ INTERDIT : l'antithèse-slogan fabriquée.** Hanif déteste les lignes du type *« Un agent IA qui travaille sur ta machine. Pas un chat de plus dans un onglet. »* — la punchline qui définit une chose en l'opposant à un épouvantail. Ça sonne slogan d'agence, ça n'apprend rien, et n'importe quel copywriter l'écrirait. Même famille à éviter : « Pas un X de plus. », « Ce n'est pas un outil, c'est un Y. », « Pas juste A, mais B. » quand le contraste ne repose sur rien de vécu.
+  - **Le test :** est-ce que cette ligne apporte un FAIT, ou juste une posture ? Si c'est une posture → coupe-la, ou remplace-la par ce que la chose fait réellement (« C'est une application à installer ; l'agent s'exécute sur ton poste. »).
+  - **Nuance :** l'antithèse reste bonne quand elle porte une idée vraie tirée de son vécu (« Ce qui bloque, ce n'est pas le matériel. C'est de croire qu'il faut en acheter. »). C'est l'antithèse DÉCORATIVE, au service du produit, qui est bannie.
 - **Anaphores et antithèses en série** : "Even after… Even after…", "I don't X, I Y", "Stop X. Start Y." → adapte en français ("Pas de X. Que du Y.", "Même après… Même après…", "Avant de… je…").
 - **Chiffres concrets et preuves** quand c'est possible (résultats, montants, dates, followers).
 - **Une punchline mémorable** vers la fin (phrase courte, percutante, "quotable").
