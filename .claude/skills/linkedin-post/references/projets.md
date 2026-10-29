@@ -172,7 +172,7 @@ Tableau de bord interactif **Python + Streamlit** : cartographie des forêts cla
 ## LLM maison — Modèle de langage entraîné from scratch (19M paramètres)
 
 - **Statut :** en cours d'entraînement (sept. 2026). _À préciser par Hanif : architecture (GPT-like ? nb de couches ?), tokenizer, langue du dataset, source du corpus, objectif final (démo ? produit ? article ?)._
-- **Taille du modèle :** **19 millions de paramètres**.
+- **Taille du modèle :** ⚠ deux chiffres donnés — **1,09 million de paramètres** (annoncé le 4 oct. 2026, modèle réellement entraîné) et **19 millions** (mentionné en sept. 2026, probablement la cible ou une autre version). **Demander à Hanif de trancher avant tout post qui cite la taille.**
 - **Dataset :** **~300 millions de caractères**.
 - **Environnement d'entraînement :** **Google Colab, tier GRATUIT** — GPU NVIDIA T4 (~15 Go de VRAM), RAM système ~12-13 Go, disque `/content` ~70-100 Go (temporaire, non garanti), session jusqu'à ~12 h, Google Drive 15 Go.
 - **Contrainte clé :** 15 Go de VRAM largement suffisants pour 19M de paramètres ; le vrai risque est la **volatilité de la VM** (disque effacé, session coupée) → checkpoints sur Drive.

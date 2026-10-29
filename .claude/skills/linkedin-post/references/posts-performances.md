@@ -662,3 +662,36 @@ Tu peux :
 → Automatiser des tâches planifiées
 
 Si vous ne voyez pas ce que c'est : une application de bureau qui installe un assistant IA autonome directement sur votre ordinateur.
+
+---
+
+## Post — "J'ai créé un modèle à 1,09 million de paramètres pour comprendre l'IA"
+- **Archétype :** 3 — Storytelling / insight (curiosité → passage à l'acte), ton court
+- **Format :** texte (capture de la courbe de loss ou d'une génération = idéal)
+- **Impressions :** _à remplir_
+- **Likes :** _à remplir_
+- **Commentaires :** _à remplir_
+- **Reposts :** _à remplir_
+- **Date :** _à remplir_
+- **Angle :** la curiosité comme moteur, pas la performance. Le chiffre minuscule (1,09 M vs 175 Md pour GPT-3) est assumé et devient l'argument : on ne construit pas pour concurrencer, on construit pour comprendre. Universel (tout le monde utilise l'IA sans savoir comment elle marche) + vécu réel.
+- **⚠ Manque :** durée d'entraînement, qualité des sorties, ce qui l'a surpris. À demander à Hanif pour une v2 beaucoup plus forte.
+
+Je voulais comprendre comment l'IA fonctionne vraiment.
+
+Alors j'ai arrêté de lire des articles dessus, et j'ai entraîné mon propre modèle.
+
+1,09 million de paramètres. From scratch.
+
+Pour situer : GPT-3 en compte 175 milliards. Le mien est minuscule.
+
+Mais c'est toute la différence entre « je sais que l'IA prédit le mot suivant » et « j'ai vu la loss descendre, et j'ai compris pourquoi ».
+
+Tu écris l'architecture. Tu prépares les données. Tu lances l'entraînement.
+
+Et tu regardes une machine apprendre à former des phrases, lentement, à partir de rien.
+
+Ce n'est pas réservé aux labos de recherche. Ça tourne sur un GPU gratuit.
+
+Si tu es curieux de comprendre l'IA de l'intérieur, entraîne un petit modèle. C'est le meilleur cours que tu puisses suivre.
+
+PS : je documente l'entraînement étape par étape. Vous voulez le code et la config ? 👇
