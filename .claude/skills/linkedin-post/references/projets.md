@@ -182,3 +182,26 @@ Tableau de bord interactif **Python + Streamlit** : cartographie des forêts cla
 - Les limites honnêtes de Colab Free (le disque temporaire, rien n'est garanti) → crédibilité.
 - Build in public de l'entraînement : courbe de loss, premiers textes générés (bons ET ratés), coût réel = 0.
 - Ce qu'on apprend en construisant un LLM plutôt qu'en appelant une API.
+
+---
+
+## Plateforme éducative (EdTech Togo) — projet d'équipe, sans nom public connu
+
+- **Statut :** idée / tout début (annoncé le 29 oct. 2026). Construit **avec des amis**, pas en solo. _À préciser : nom du produit, composition de l'équipe (rôle de Hanif), stack, date de lancement visée, modèle économique (gratuit ? freemium ?), niveaux scolaires ciblés (lycée ? université ?)._
+- **Pitch une ligne :** une plateforme qui rassemble les ressources de révision des étudiants togolais au même endroit, proprement rangées par matière et par niveau.
+
+### Fonctionnalités prévues
+- Vidéos d'explication et de résumé de cours.
+- Résumés de cours en PDF.
+- Exercices pratiques + corrigés.
+- Ressources classées par matière et par niveau d'études.
+- **Vision long terme :** une communauté d'apprentissage où les étudiants produisent aussi des ressources, pas seulement les consomment.
+
+### Personnes à créditer
+- **Tiebekabe Pagbame** — conseils, orientations et encouragements ; a aidé l'équipe à passer de l'idée à l'action. À remercier nommément dans les posts sur ce projet.
+
+### Angles storytelling exploitables
+- ⭐ **Le vécu concret de la révision au Togo** : le PDF scanné de travers qui circule dans un groupe WhatsApp la veille de l'examen, le cahier emprunté à un camarade. Hook universel pour l'audience togolaise, et « WhatsApp » a déjà fait 1 503 impressions sur un autre post.
+- Le savoir existe, il est juste éparpillé et illisible → c'est un problème d'organisation, pas de contenu.
+- Construire à plusieurs (changement par rapport à Relay/Cyber Arena, faits en solo).
+- Build in public : validation par les étudiants eux-mêmes avant de coder.

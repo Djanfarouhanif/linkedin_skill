@@ -695,3 +695,45 @@ Ce n'est pas réservé aux labos de recherche. Ça tourne sur un GPU gratuit.
 Si tu es curieux de comprendre l'IA de l'intérieur, entraîne un petit modèle. C'est le meilleur cours que tu puisses suivre.
 
 PS : je documente l'entraînement étape par étape. Vous voulez le code et la config ? 👇
+
+---
+
+## Post — Plateforme éducative Togo, hook "le PDF scanné qui circule sur WhatsApp la veille de l'examen"
+- **Archétype :** 3 — Storytelling / insight → projet (le produit n'arrive qu'après le problème vécu)
+- **Format :** texte (une capture de maquette ou du groupe WhatsApp flouté serait très forte)
+- **Impressions :** _à remplir_
+- **Likes :** _à remplir_
+- **Commentaires :** _à remplir_
+- **Reposts :** _à remplir_
+- **Date :** _à remplir_
+- **Angle :** le brouillon de Hanif était le post EdTech générique type (« nous avons décidé de réfléchir à une solution numérique », puces à émojis, « une idée, une équipe, une ambition », 7 hashtags) — schéma qui plafonne. Réécrit en partant d'une scène que chaque étudiant togolais reconnaît en 2 secondes. Le remerciement à Tiebekabe Pagbame est conservé, mais court et sincère. PS-question à double usage : engagement + validation produit avant de coder.
+
+La veille de l'examen, le cours circule dans un groupe WhatsApp.
+
+Un PDF scanné de travers. 40 Mo. Nommé « cours_final_final2 ».
+
+Ou alors c'est le cahier d'un camarade, qu'il faut lui rendre avant ce soir.
+
+C'est comme ça que révisent des milliers d'étudiants au Togo.
+
+Le problème n'est pas qu'il manque du savoir. Le savoir est là.
+
+Il est juste éparpillé, illisible, et il se perd d'un groupe à l'autre.
+
+Avec des amis, on construit une plateforme pour y remédier :
+
+Des vidéos qui expliquent et résument les cours.
+
+Des résumés en PDF, propres, faits pour réviser.
+
+Des exercices avec leurs corrigés.
+
+Le tout rangé par matière et par niveau.
+
+Et plus tard, quelque chose de plus ambitieux : une communauté où les étudiants ne se contentent pas de consommer les ressources — ils en produisent pour ceux qui viennent après eux.
+
+Merci à Tiebekabe Pagbame, dont les conseils nous ont fait passer de l'idée à l'action.
+
+On démarre. Il y a tout à construire.
+
+PS : si tu es étudiant au Togo — comment tu révises aujourd'hui ? Qu'est-ce qui te manque vraiment ? On construit avec vos réponses 👇
